@@ -13,7 +13,6 @@
 ############################################################################################
 ###########################################################################################
 
-
 # Main Script
 
 if [ "$(id -u)" != "0" ]; then
@@ -25,10 +24,11 @@ destination_dir="/usr/local/bin"
 sudo chmod +x dati.sh
 sudo ln -s $current_dir/dati.sh $destination_dir/dati.sh
 sudo chmod +x $destination_dir/dati.sh
-
-
-
-
-
+#
+#
+#
+#
 echo "Okay DONE!"
+#
+#
 echo "Now you type dati.sh for Display the Date & Time"
