@@ -7,3 +7,7 @@ dati short form of Date & Time. It's a automated script which is show the curren
 1) https://github.com/dmcyberkiller/autostego.git
 ## My Wordlist
 1) https://github.com/dmcyberkiller/HashCrack.git
+
+## My own Tryhackme Room
+1) https://tryhackme.com/jr/steghidedm
+2) https://tryhackme.com/jr/crackthehashes
