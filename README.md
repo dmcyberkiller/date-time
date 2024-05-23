@@ -11,3 +11,4 @@ dati short form of Date & Time. It's a automated script which is show the curren
 ## My own Tryhackme Room
 1) https://tryhackme.com/jr/steghidedm
 2) https://tryhackme.com/jr/crackthehashes
+-:Visit my THM Room and complete the challenge:-
