@@ -5,3 +5,5 @@ dati short form of Date & Time. It's a automated script which is show the curren
 
 ## My Tools
 1) https://github.com/dmcyberkiller/autostego.git
+## My Wordlist
+1) https://github.com/dmcyberkiller/HashCrack.git
