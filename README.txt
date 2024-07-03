@@ -11,7 +11,7 @@
 ################################  ######   #####   ######  ###########  ######   #############
 ##############################            #############    ###########    ###################
 ############################################################################################
-########################################## Version 2.1.0 ##################################
+########################################## Version 2.1.2 ##################################
 ##########################################################################################
 
 README.TXT :- 
@@ -45,6 +45,8 @@ Clone the date-time from github and you see the dati.sh script. Add the execute 
 Add the chmod +x permission after copy this dati.sh script in the destination path. 
 
 
-### Version 2.1.0
+### Version 2.1.2
 Change this script name to dati instead of dati.sh for LAZY People, like me
 SO Don't Warry!! Just Type dati from anywhere instead of dati.sh
+
+## If show this -> zsh: correct 'dati' to 'wait' [nyae]? just press Enter.
