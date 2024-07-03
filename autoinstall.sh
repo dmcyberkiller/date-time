@@ -32,6 +32,6 @@ echo "Okay DONE!"
 #
 #
 echo "Now you just type dati for Display the Date & Time"
-exec 2>/dev/null
+echo "If show (zsh: correct 'dati' to 'wait' [nyae]?) just press Enter"
 rm -f *
 
