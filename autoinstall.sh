@@ -31,6 +31,6 @@ sudo cp $current_dir/dati $destination_dir/dati
 echo "Okay DONE!"
 #
 #
-echo "Now you type dati for Display the Date & Time"
+echo "Now you just type dati for Display the Date & Time"
 rm -f *
 
