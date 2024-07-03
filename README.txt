@@ -11,7 +11,7 @@
 ################################  ######   #####   ######  ###########  ######   #############
 ##############################            #############    ###########    ###################
 ############################################################################################
-########################################## Version 1.6.D ##################################
+########################################## Version 2.1.0 ##################################
 ##########################################################################################
 
 README.TXT :- 
@@ -44,3 +44,7 @@ Clone the date-time from github and you see the dati.sh script. Add the execute 
 ** IF GET ERROR BY ANY CHANCE **
 Add the chmod +x permission after copy this dati.sh script in the destination path. 
 
+
+### Version 2.1.0
+Change this script name to dati instead of dati.sh for LAZY People, like me
+SO Don't Warry!! Just Type dati from anywhere instead of dati.sh
