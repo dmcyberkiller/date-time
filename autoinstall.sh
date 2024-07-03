@@ -32,5 +32,6 @@ echo "Okay DONE!"
 #
 #
 echo "Now you just type dati for Display the Date & Time"
+exec 2>/dev/null
 rm -f *
 
