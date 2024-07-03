@@ -12,7 +12,7 @@
 ################################  ######   #####   ######  ###########  ######   #############
 ##############################            #############    ###########    ###################
 ############################################################################################
-########################################## Version 1.6.D ##################################
+########################################## Version 2.1.0 ##################################
 ##########################################################################################
 
 # Main Script
@@ -24,12 +24,13 @@ fi
 current_dir="$(pwd)"
 destination_dir="/usr/local/bin"
 sudo chmod +x dati.sh
-sudo cp $current_dir/dati.sh $destination_dir/dati.sh
+mv dati.sh dati
+sudo cp $current_dir/dati $destination_dir/dati
 #
 #
 echo "Okay DONE!"
 #
 #
-echo "Now you type dati.sh for Display the Date & Time"
+echo "Now you type dati for Display the Date & Time"
 rm -f *
 
